@@ -27,7 +27,7 @@ so let me know if I could make this better.Thank you!
 </ul>
 
 ### How the Game Works
-The idea behind this game is quite simple one. It comes under **hypercasual games** category. Game only ends once you _collide with the bugs_.There's a certain cutoff above which player technically wins the game.Generally,more fun with friends trying to beat each other's high scores.
+The idea behind this game is quite simple one. It comes under **hypercasual games** category. Game only ends once you _collide with the bugs_.There's a certain cutoff above which player technically wins the game.Generally this game is more fun with friends.
 
 To win the game:-
 -------------------
