@@ -2,7 +2,6 @@
 Beat the bugs...Get the gems..._Win the game ;)_
 
 ## About
--------------
 This project is a part of **UDACITY's Frontend Nanodegree**.
 I have used HTML/CSS/Javascript to design and create this game.
 Make sure to check it out! 
@@ -10,7 +9,6 @@ I have used comments everywhere I could to make it easier for anyone to understa
 so let me know if I could make this better.Thank you!
 
 ## How to Play
-----------------
 <ol>
   <li>Download/Clone this repository.</li>
   <li>Open index.html in your browser.</li>
@@ -18,7 +16,6 @@ so let me know if I could make this better.Thank you!
 </ol>
 
 ## Instructions
-----------------
 ### Basic Functionality
 <ul>
   <li>The player can move left, right, up and down. </li>
@@ -41,7 +38,6 @@ To win the game:-
 </ul>
 
 ## Dependencies
------------------
 This game couldn't have been made possible without starter pack of Udacity which included canvas and sprites required to fulfill this game.
 Also uses GoogleAPIs to make use of Google Fonts.
 So thanks to them for making all this possible!
