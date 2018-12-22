@@ -33,7 +33,7 @@ To win the game:-
 -------------------
 <ul>
   <li>Player is suppose to collect gems that will display at any paved block portions of the game board.</li>
-  <li>To make it challenging user get only "1 Life".</li>
+  <li>To make it challenging user gets only "1 Life".</li>
   <li>In order to win the game score has to be 125 or above.</li>
 </ul>
 
